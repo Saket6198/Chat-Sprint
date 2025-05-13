@@ -91,7 +91,7 @@ const ThreadWelcomeSuggestions: FC = () => {
         autoSend
       >
         <span className="line-clamp-2 text-ellipsis text-sm font-semibold">
-          What is the weather in Tokyo?
+          What is MCP ?
         </span>
       </ThreadPrimitive.Suggestion>
       <ThreadPrimitive.Suggestion
@@ -101,7 +101,7 @@ const ThreadWelcomeSuggestions: FC = () => {
         autoSend
       >
         <span className="line-clamp-2 text-ellipsis text-sm font-semibold">
-          What is assistant-ui?
+          What is Agents  ?
         </span>
       </ThreadPrimitive.Suggestion>
     </div>
