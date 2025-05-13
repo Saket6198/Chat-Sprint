@@ -76,7 +76,7 @@ yarn add chat-sprint
 
 ## Getting Started
 
-First, add your OpenAI API key to `.env.local` file:
+First, add your AI API key to `.env.local` file and modifying the app/api/route.ts file appropriately: 
 
 Then, run the development server:
 
